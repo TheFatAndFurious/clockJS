@@ -1,0 +1,18 @@
+{
+  "name": "clockjs",
+  "version": "1.0.0",
+  "description": "clock project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "Matt",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-escapes": "^5.0.0",
+    "chalk": "^5.0.1",
+    "commander": "^9.4.0",
+    "terminal-block-fonts": "^1.0.2"
+  },
+  "type": "module"
+}
